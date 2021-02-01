@@ -2,6 +2,8 @@
 
 Example for using Typescript &amp; vuex-module-decorators on Nuxt.js
 
+node: v12.4.0
+
 ## Build Setup
 
 ```bash
