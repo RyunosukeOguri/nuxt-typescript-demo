@@ -21,4 +21,12 @@ $ npm run start
 $ npm run generate
 ```
 
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+ディレクトリ
+```bash
+− nuxt
+└ models ...モデルの型定義
+└ types ...その他の型定義(enumやtypes,plugin,apiなど）
+└ components ...コンポーネント
+└ pages ... ページ
+└ utils ... 汎用系メソッド
+```
